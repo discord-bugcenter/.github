@@ -12,7 +12,7 @@
 
 # Bonjour 👋
 
-![logo de bug center](https://cdn.discordapp.com/icons/595218682670481418/a_193916c5ca0c79ddb474dc490097fe5b.gif)
+<a href="https://discord.com/invite/dHdxTfPQS2">![logo de bug center](https://cdn.discordapp.com/icons/595218682670481418/a_193916c5ca0c79ddb474dc490097fe5b.gif)</a>
 
 Nous sommes un **serveur Discord** parlant de la programmation et des sujets touchants aux nouvelles technologies. Cette organisation garde chaque bout de code public, pour que chacun soit capable d'apporter des modifications et de s'améliorer en programmation!
 
